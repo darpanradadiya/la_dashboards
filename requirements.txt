@@ -1,0 +1,9 @@
+streamlit>=1.34
+pandas
+numpy
+plotly
+geopandas
+folium
+streamlit-folium
+branca
+scikit-learn

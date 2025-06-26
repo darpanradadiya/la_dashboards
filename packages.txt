@@ -1,0 +1,4 @@
+gdal-bin
+gdal-data
+libgdal-dev
+libspatialindex-dev
